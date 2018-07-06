@@ -1,0 +1,12 @@
+c:\users\joe\documents\visual studio 2015\Projects\LightningMathFacts\LightningMathFacts\bin\Debug\LightningMathFacts.exe.config
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\LightningMathFacts\LightningMathFacts\obj\Debug\LightningMathFacts.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\LightningMathFacts\LightningMathFacts\bin\Debug\LightningMathFacts.exe
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\LightningMathFacts\LightningMathFacts\bin\Debug\LightningMathFacts.pdb
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\LightningMathFacts\LightningMathFacts\obj\Debug\LightningMathFacts.exe
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\LightningMathFacts\LightningMathFacts\obj\Debug\LightningMathFacts.pdb
+C:\Users\Joe\LightningMathFacts\bin\Debug\LightningMathFacts.exe.config
+C:\Users\Joe\LightningMathFacts\obj\Debug\LightningMathFacts.exe
+C:\Users\Joe\LightningMathFacts\obj\Debug\LightningMathFacts.pdb
+C:\Users\Joe\LightningMathFacts\bin\Debug\LightningMathFacts.exe
+C:\Users\Joe\LightningMathFacts\bin\Debug\LightningMathFacts.pdb
+C:\Users\Joe\LightningMathFacts\obj\Debug\LightningMathFacts.csprojResolveAssemblyReference.cache
