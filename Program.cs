@@ -97,7 +97,7 @@ namespace LightningMathFacts
                         workingOn[k, 1] = MFA[nextMFAProblem, 11];
                         nextMFAProblem++;
                         int min = Enumerable.Range(0, 4).Select(i => workingOn[i, 0]).Min();
-                        Console.WriteLine(min);
+                        // Console.WriteLine(min); This line shows what the lowest-numbered math fact is with each iteration.  
                         while ((min) > levelUpMark)
                         {
                         Console.WriteLine("YOU BEAT LEVEL " + (levelUpMark) / levelLength + "!!!!!!");
