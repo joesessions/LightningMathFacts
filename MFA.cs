@@ -11,7 +11,7 @@ namespace LightningMathFacts
         public int[,] makeanMFA()
         {
             // make the empty array
-            int[,] MFA = new int[1160,12 ];
+            int[,] MFA = new int[1160,18 ];
 
             // instantiate FindAnswer
             FindAnswer calc = new FindAnswer();
@@ -30,7 +30,14 @@ namespace LightningMathFacts
             // 9: Third most recent time
             // 10: Fourth most recent time
             // 11: Average of the times
-            // 12: 
+            // to be added:
+            // 12: Lifetime "asks"  
+            // 13: Lifetime kills.
+            // 14: Assumed extra difficulty factor for that problem.
+            // 15: Most recent TTK (Times to kill)
+            // 16: Second most recent TTK
+            // 17: Third most recent TTK
+            // 18: Fourth most recent TTK  
 
             int j = 1, k=0;
             for (int i = 1; i <= 144; i++)
