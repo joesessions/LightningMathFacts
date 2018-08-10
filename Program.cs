@@ -25,7 +25,7 @@ namespace LightningMathFacts
             }
             
 
-            int [,] MFA = mfa.makeanMFA();
+            int [,] MFA = mfa.makeanMFA();  
 
             
 
@@ -116,48 +116,3 @@ namespace LightningMathFacts
         }
     }
 }
-// add the addtion facts to the math fact array
-// Data columns:
-// 0: ID number (same as row number)
-// 1: Status number (10, not started on. 9-1 varying degrees of mastery. 0, mastered.)
-// 2: Total number of times the question has been asked.
-// 3: First argument
-// 4: Operation  (0 is addition, 1 subtraction, 2 mult., 3 div.)
-// 5: Second argument
-// 6: Answer
-// 7: Most recent time on problem. (in tenths of seconds)
-// 8: Next most recent time
-// 9: Third most recent time
-// 10: Fourth most recent time
-// 11: Average of the times
-// 12: 
-
-
-
-//int rowLength = MFA.GetLength(0);
-//int colLength = MFA.GetLength(1);
-
-//for (int i = 0; i < rowLength; i++)
-//{
-//    for (int j = 0; j < colLength; j++)
-//    {
-//        Console.Write(string.Format("{0} ", MFA[i, j]));
-//    }
-//    Console.Write(Environment.NewLine + Environment.NewLine);
-//    if (i == 100 | i == 200 | i==435 )
-//    {
-//        Console.ReadLine();
-//    } 
-//}
-//Console.ReadLine();
-
-
-//Console.WriteLine("This is the index number in the workingOn array: " + k);
-//Console.WriteLine("Here are all the values for that question in the MFA:");
-//for (int j = 0; j < colLength; j++)
-//{
-//    Console.Write(string.Format("{0} ", MFA[MFAProblem, j]));
-//}
-//Console.Write(Environment.NewLine + Environment.NewLine);
-
-// Asks the question and determine the lag on it.  
